@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testtest"
+  site-url: "https://fligt.github.io/testtest"
+  description: "temporary repo to debug nbdev github test failure"
+  repo-branch: master
+  repo-url: "https://github.com/fligt/testtest"
